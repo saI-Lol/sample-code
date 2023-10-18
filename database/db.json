@@ -6,7 +6,7 @@
       "lastName": "Doe",
       "email": "johndoe@gmail.com",
       "phone": "1234567890",
-      "program": "Computer Science"
+      "program": "BIST"
     },
     {
       "id": 2,
@@ -18,11 +18,53 @@
     },
     {
       "id": 3,
-      "firstName": "Peter",
-      "lastName": "Pan",
-      "email": "petepan@gmail.com",
-      "phone": "2345677990",
-      "program": "Education"
+      "firstName": "Nabende",
+      "lastName": "Wakoli",
+      "email": "peterwakholi@gmail.com",
+      "phone": "0772953610",
+      "program": "Software Engineering"
+    },
+    {
+      "id": 4,
+      "firstName": "Marvin",
+      "lastName": "Habaasa",
+      "email": "marvhabaasa@gmail.com",
+      "phone": "0709853610",
+      "program": "Software Engineering"
+    }
+  ],
+  "nextofkin": [
+    {
+      "id": 1,
+      "fullName": "Emma Watson",
+      "email": "emmawatson@gmail.com",
+      "phone": "0706019362",
+      "studentId": 1,
+      "relationship": "Mother"
+    },
+    {
+      "id": 2,
+      "fullName": "David Smith",
+      "email": "davidsmith@gmail.com",
+      "phone": "0754321987",
+      "studentId": 3,
+      "relationship": "Father"
+    },
+    {
+      "id": 3,
+      "fullName": "Mary Johnson",
+      "email": "maryjohnson@mak.ac.u",
+      "phone": "0765432198",
+      "studentId": 2,
+      "relationship": "Mother"
+    },
+    {
+      "id": 4,
+      "fullName": "Robert Brown",
+      "email": "robertbrown@gmail.com",
+      "phone": "0723456712",
+      "studentId": 4,
+      "relationship": "Father"
     }
   ]
 }

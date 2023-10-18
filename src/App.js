@@ -1,9 +1,9 @@
-import PersonalInfo from "./containers/personalInfo";
+import StudentProfile from "./pages/StudentProfile";
 
 function App() {
   return (
     <div className="App">
-     <PersonalInfo />
+      <StudentProfile />
     </div>
   );
 }
