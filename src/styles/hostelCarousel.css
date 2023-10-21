@@ -1,0 +1,31 @@
+/* CSS */
+.carousel-controls {
+    display: none; /* Initially hide the navigation buttons */
+  }
+  
+  /* Show the buttons when hovering over the carousel container */
+  [id^="hostelImageSlide"]:hover .carousel-controls {
+    display: block;
+  }
+
+
+  .carousel-item img {
+    margin: 0 auto; /* this will align the image to center. */
+    width: auto; /* for those images which don't have a width specified, but has a max-height will be auto adjusted */
+  }
+
+
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
